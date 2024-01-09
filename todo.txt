@@ -1,0 +1,95 @@
+- setup IDE
+  - vscode
+  - extentions
+  - python version
+
+- project management (poetry)
+  - setup
+  - venv
+  - add dependencies
+  - linters
+
+- python einführung
+  - variablen, speicher, bytes
+  - loop, if, match, try
+  - lists, tuples, dictionaries
+    - list comprehension
+    - unpacking
+    - generators
+  - methoden
+  - klassen
+    - dunder
+  - docstrings
+
+- datenmodelle
+  - decorators
+  - static
+  - interfaces
+  - enums
+  - dataclasses
+
+- python performance
+  - use packages!
+  - python internal speedups
+    - slots
+  - cython, other sub-programs
+
+- numeric computations
+  - numpy
+    - arrays
+    - methods for arrays
+  - complex computations
+    - einsum
+    - integral
+    - interpolate
+    - derivative
+
+- symbolic computation (sympy)
+  - variables
+  - formulas
+  - do math with it
+    - replace var with value
+    - do insertions, actions, ...
+  - solve equations symbolically
+
+- async
+  - asyncio coroutines, async, await
+  - start new async stack
+  - create_task, await later
+
+- parallel computing
+  - async vs parallel
+  - multiprocessing package
+
+====
+SMPL
+====
+
+- data import/export (+latex)
+- uncertainties
+- fitting
+- interpolation
+- simulation
+- plotting
+- animation
+- probability
+- units
+- utils
+  - get nearest (multidimensional)
+
+maybe:
+- documentation tools
+- wrapping tools
+- parallel
+
+
+- latex
+  - installation guide
+  - vscode extensions
+  - examples
+    - layout multiple files
+    - import data from files
+    - tables
+    - units
+    - graphs and plots
+    - diagrams?
